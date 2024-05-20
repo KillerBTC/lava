@@ -5,7 +5,7 @@ import random
 
 # Ethereum mainnet RPC endpoint
 # TODO: input your Ethereum RPC here.
-rpc_endpoint = 'https://eth1.lava.build/lava-referer-bbfb8dbe-46d5-41ce-a634-d7ea02fed7bf/'
+rpc_endpoint = 'https://eth1.lava.build/lava-referer-778f0de5-a02e-40e9-925d-b3a341e7b3a6/'
 
 # Wallet address (0x format) that we will check the balance for
 # TODO: Input your wallet address
